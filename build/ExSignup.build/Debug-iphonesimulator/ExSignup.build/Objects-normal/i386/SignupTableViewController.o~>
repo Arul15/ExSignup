@@ -1,0 +1,7 @@
+/Users/njaksic/myiPhoneApps/ExSignup/Classes/SignupTableViewController.m: In function '-[SignupTableViewController signup]':
+/Users/njaksic/myiPhoneApps/ExSignup/Classes/SignupTableViewController.m:221: warning: 'SignupTableViewController' may not respond to '-validateSignupForm'
+/Users/njaksic/myiPhoneApps/ExSignup/Classes/SignupTableViewController.m:221: warning: (Messages without a matching method signature
+/Users/njaksic/myiPhoneApps/ExSignup/Classes/SignupTableViewController.m:221: warning: will be assumed to return 'id' and accept
+/Users/njaksic/myiPhoneApps/ExSignup/Classes/SignupTableViewController.m:221: warning: '...' as arguments.)
+/Users/njaksic/myiPhoneApps/ExSignup/Classes/SignupTableViewController.m: In function '-[SignupTableViewController validateSignupForm]':
+/Users/njaksic/myiPhoneApps/ExSignup/Classes/SignupTableViewController.m:248: warning: format not a string literal and no format arguments

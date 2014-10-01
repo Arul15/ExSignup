@@ -1,0 +1,198 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ExSignupAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {776, 376}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 329}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ExSignupAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {943, 468}}";
+			sepNavSelRange = "{756, 0}";
+			sepNavVisRange = "{0, 772}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ExSignup */ = {
+		activeExec = 0;
+		executables = (
+			980D624F13186491009E2C22 /* ExSignup */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 980D624F13186491009E2C22 /* ExSignup */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ExSignup */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ExSignup */,
+		);
+		codeSenseManager = 980D6257131864A9009E2C22 /* Code sense */;
+		executables = (
+			980D624F13186491009E2C22 /* ExSignup */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					598,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 320365713;
+			PBXWorkspaceStateSaveDate = 320365713;
+		};
+		perUserProjectItems = {
+			980D62A0131869CC009E2C22 /* PBXTextBookmark */ = 980D62A0131869CC009E2C22 /* PBXTextBookmark */;
+			980D62A1131869CC009E2C22 /* PBXTextBookmark */ = 980D62A1131869CC009E2C22 /* PBXTextBookmark */;
+			980D62A2131869CC009E2C22 /* PBXTextBookmark */ = 980D62A2131869CC009E2C22 /* PBXTextBookmark */;
+			980D62A3131869CC009E2C22 /* PBXTextBookmark */ = 980D62A3131869CC009E2C22 /* PBXTextBookmark */;
+			980D62A4131869CC009E2C22 /* PBXTextBookmark */ = 980D62A4131869CC009E2C22 /* PBXTextBookmark */;
+			980D62A5131869CC009E2C22 /* PBXTextBookmark */ = 980D62A5131869CC009E2C22 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 980D6256131864A9009E2C22 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	980D624F13186491009E2C22 /* ExSignup */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ExSignup;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	980D6256131864A9009E2C22 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	980D6257131864A9009E2C22 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	980D6258131864C2009E2C22 /* SignupTableViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {776, 715}}";
+			sepNavSelRange = "{47, 0}";
+			sepNavVisRange = "{0, 811}";
+		};
+	};
+	980D6259131864C2009E2C22 /* SignupTableViewController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            l = DetailViewController;\n            r = \"{3887, 24}\";\n            s = 1;\n        },\n                {\n            l = DetailViewController;\n            r = \"{3938, 24}\";\n            s = 1;\n        },\n                {\n            l = \"Nib name\";\n            r = \"{3988, 12}\";\n            s = 1;\n        }\n    );\n    r = \"{0, 8776}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1237, 3783}}";
+			sepNavSelRange = "{6357, 0}";
+			sepNavVisRange = "{6438, 435}";
+			sepNavWindowFrame = "{{67, 76}, {1200, 697}}";
+		};
+	};
+	980D6295131868BB009E2C22 /* en */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1141, 569}}";
+			sepNavSelRange = "{160, 0}";
+			sepNavVisRange = "{0, 699}";
+			sepNavWindowFrame = "{{67, 76}, {1200, 697}}";
+		};
+	};
+	980D62A0131869CC009E2C22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 980D6295131868BB009E2C22 /* en */;
+		name = "Localizable.strings: 9";
+		rLen = 0;
+		rLoc = 160;
+		rType = 0;
+		vrLen = 699;
+		vrLoc = 0;
+	};
+	980D62A1131869CC009E2C22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* ExSignupAppDelegate.h */;
+		name = "ExSignupAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 329;
+		vrLoc = 0;
+	};
+	980D62A2131869CC009E2C22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* ExSignupAppDelegate.m */;
+		name = "ExSignupAppDelegate.m: 27";
+		rLen = 0;
+		rLoc = 756;
+		rType = 0;
+		vrLen = 772;
+		vrLoc = 0;
+	};
+	980D62A3131869CC009E2C22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 980D6259131864C2009E2C22 /* SignupTableViewController.m */;
+		name = "SignupTableViewController.m: 3";
+		rLen = 0;
+		rLoc = 47;
+		rType = 0;
+		vrLen = 895;
+		vrLoc = 0;
+	};
+	980D62A4131869CC009E2C22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 980D6258131864C2009E2C22 /* SignupTableViewController.h */;
+		name = "SignupTableViewController.h: 3";
+		rLen = 0;
+		rLoc = 47;
+		rType = 0;
+		vrLen = 811;
+		vrLoc = 0;
+	};
+	980D62A5131869CC009E2C22 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 980D6258131864C2009E2C22 /* SignupTableViewController.h */;
+		name = "SignupTableViewController.h: 3";
+		rLen = 0;
+		rLoc = 47;
+		rType = 0;
+		vrLen = 811;
+		vrLoc = 0;
+	};
+}
